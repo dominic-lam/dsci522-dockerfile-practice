@@ -1,0 +1,10 @@
+name: 522_ia2
+channels:
+  - conda-forge
+dependencies:
+  - conda-lock=2.5.7
+  - jupyterlab=4.2.5
+  - matplotlib=3.9.2
+  - pandas=2.2.2
+  - python=3.11.9
+prefix: /Users/dominiclam/miniforge3/envs/522_ia2
