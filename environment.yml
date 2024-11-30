@@ -1,13 +1,7 @@
-name: 522_ia2
+name: dsci522-dockerfile-practice
 channels:
-  - conda-forge
+ - conda-forge
 dependencies:
-  - conda-lock=2.5.7
-  - jupyterlab=4.2.5
-  - matplotlib=3.9.2
   - pandas=2.2.2
-  - python=3.11.9
-  - mamba=1.5.11
-  - conda=24.11
-  
-prefix: /Users/dominiclam/miniforge3/envs/522_ia2
+  - pandera=0.20.4
+  - python=3.11
