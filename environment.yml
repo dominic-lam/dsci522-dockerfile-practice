@@ -7,4 +7,7 @@ dependencies:
   - matplotlib=3.9.2
   - pandas=2.2.2
   - python=3.11.9
+  - mamba=1.5.11
+  - conda=24.11
+  
 prefix: /Users/dominiclam/miniforge3/envs/522_ia2
